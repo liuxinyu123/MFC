@@ -1,0 +1,6 @@
+CFile file;
+	if (!file.Open("./test.dat", CFile::modeCreate | CFile::modeWrite))
+	{
+		AfxMessageBox("±£´æÎÄ¼şÊ§°Ü£¡");
+		return;
+	}

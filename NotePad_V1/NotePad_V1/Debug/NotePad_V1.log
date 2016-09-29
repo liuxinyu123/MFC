@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/5/16 18:32:21。
+     1>项目“E:\我的文档\visual studio 2013\Projects\MFC\NotePad_V1\NotePad_V1\NotePad_V1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NotePad_V1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NotePad_V1Dlg.cpp
+         NotePad_V1Dlg.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\我的文档\visual studio 2013\Projects\MFC\NotePad_V1\Debug\NotePad_V1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\我的文档\visual studio 2013\Projects\MFC\NotePad_V1\Debug\NotePad_V1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\我的文档\visual studio 2013\Projects\MFC\NotePad_V1\Debug\NotePad_V1.lib" /MACHINE:X86 Debug\NotePad_V1.res
+         Debug\NotePad_V1.obj
+         Debug\NotePad_V1Dlg.obj
+         Debug\stdafx.obj
+         NotePad_V1.vcxproj -> E:\我的文档\visual studio 2013\Projects\MFC\NotePad_V1\Debug\NotePad_V1.exe
+     1>已完成生成项目“E:\我的文档\visual studio 2013\Projects\MFC\NotePad_V1\NotePad_V1\NotePad_V1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89
